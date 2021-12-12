@@ -1,1 +1,7 @@
-
+<Summary>New project
+	раздел Purchase licenses</Summary>	
+	<project>тестируем приложение TestRail</project>
+	<status>New</status>
+	<Step to Reproduce>1. Проходим регистрацию по ссылке https://www.gurock.com/testrail/ 2. Проходим в раздел Purchase licenses 3. Заполняем поля валидным значением</step to Reproduce>
+	<result>1.консольная ошибка 404 2. ошибка в таблице элемента</result>
+<Expected result>Невозможно прочитать значение свойства underfined в HTMLTableE1ement сервер ответил с состоянием 404 (не найдено)</Expected result>
